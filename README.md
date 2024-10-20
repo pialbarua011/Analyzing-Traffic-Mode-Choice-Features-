@@ -73,7 +73,7 @@ Thank you! — Pial Barua
 ## Acknowledgment
 
 - The Dataset was collected and used with permission from Md. Sifat Bin Siraj, School of Transportation and Logistics, Southwest Jiaotong University, China.
-- The Actual Dataset was not preprosessed for Machine Learning Algorithm. I preprosessed the whole dataset for this project, and make a lot of changed. Hence the dataset here in the file section will be unique.
+- The Actual Dataset was not preprocessed for Machine Learning Algorithm. I preprocessed the whole dataset for this project, and make a lot of changed. Hence the dataset here in the file section will be unique.
 - Took some help from Chatgpt, and other AI tools. 
 
 
