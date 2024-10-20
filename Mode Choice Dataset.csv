@@ -1,0 +1,515 @@
+WARD NO,AGE,GENDER,MONTHLY INCOME,VEHICLE OWNERSHIP,"IF HAVE, VEHICLE TYPE",NEAREST STOP DISTANCE (m),REGUALR TRAVEL DISTANCE (km),TRAVEL MODE FOR LESS THAN 5KM,REGULAR TRAVEL MODE,WORK,SHOPPING,SOCIAL LIFE
+3,21,Male,10000,No,,300,1.7,Walking,Bus,Bus,Rickshaw,Bus
+3,19,Male,0,No,,100,1.2,Walking,Bus,Bus,Rickshaw,Bus
+3,20,Female,5000,No,,150,3,Rickshaw,Laguna,Laguna,Rickshaw,Rickshaw
+3,30,Male,20000,Yes,Motorcycle,800,3.5,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+3,46,Male,35000,Yes,Motorcycle,300,5,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+3,34,Male,26000,No,,600,3,Mahindra,Bus,Bus,Rickshaw,CNG
+3,25,Male,14000,No,,500,3.8,Walking,Bus,Bus,CNG,CNG
+3,30,Male,22000,No,,800,4.8,Walking,Mahindra,Mahindra,Bus,CNG
+3,22,Male,0,No,,300,3.7,Walking,Bus,Laguna,Laguna,Rickshaw
+3,21,Male,0,No,,400,3.8,Laguna,Bus,Bus,Rickshaw,Motorcycle
+3,27,Male,15000,No,,350,2.5,Bus,Bus,Bus,Rickshaw,Bus
+3,28,Male,18000,No,,600,3,Walking,Mahindra,Mahindra,Bus,Bus
+3,32,Male,20000,Yes,Motorcycle,500,4.8,Laguna,Bus,Bus,Bus,Bus
+3,26,Female,10000,No,,250,3.7,Bus,Bus,Bus,Rickshaw,CNG
+3,42,Male,30000,No,,450,3,Bus,Bus,Bus,Laguna,Rickshaw
+3,36,Male,22000,No,,450,4.8,Walking,Mahindra,Mahindra,Bus,Bus
+3,24,Male,12000,No,,400,3,Walking,Bus,Bus,Laguna,Motorcycle
+3,35,Male,25000,Yes,Motorcycle,350,4,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+3,29,Female,20000,No,,250,3,Laguna,Bus,Bus,Rickshaw,Rickshaw
+3,45,Male,25000,No,,350,6,Walking,Bus,Bus,Rickshaw,CNG
+3,24,Male,14000,No,,450,3.7,Walking,Laguna,Laguna,Rickshaw,Bus
+3,34,Male,28000,Yes,Motorcycle,500,4,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+3,22,Female,0,No,,200,1.8,Walking,Rickshaw,Rickshaw,Rickshaw,CNG
+3,56,Male,35000,Yes,CNG,300,5.7,CNG,CNG,CNG,CNG,CNG
+3,34,Female,25000,No,,400,3.6,Rickshaw,Bus,Bus,Rickshaw,CNG
+3,28,Male,20000,No,,800,4.6,Rickshaw,Bus,Bus,Bus,CNG
+3,42,Male,28000,No,,350,7,Rickshaw,Bus,Bus,Rickshaw,CNG
+3,22,Male,10000,No,,250,3.6,Walking,Laguna,Laguna,Rickshaw,Bus
+3,42,Female,20000,No,,450,2.5,Rickshaw,Bus,Bus,Rickshaw,CNG
+8,24,Male,15000,No,,250,3.5,Walking,Bus,Bus,Bus,Bus
+8,46,Male,30000,Yes,Motorcycle,300,2.5,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+8,32,Male,22000,No,,450,4,Walking,Bus,Bus,Laguna,CNG
+8,52,Male,40000,Yes,CNG,600,5,CNG,CNG,CNG,CNG,CNG
+8,32,Male,24000,No,,700,3.8,Laguna,Bus,Bus,Rickshaw,CNG
+8,36,Female,28000,Yes,CNG,900,3.2,CNG,CNG,CNG,CNG,CNG
+8,25,Male,14000,No,,500,2.5,Walking,Laguna,Laguna,Bus,Bus
+8,26,Male,12000,No,,550,1.2,Walking,Laguna,Laguna,Bus,Bus
+8,27,Male,13500,No,,350,3.5,Walking,Bus,Bus,Bus,Bus
+8,36,Male,28000,Yes,Motorcycle,450,3.8,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+8,34,Male,20000,No,,800,3.5,Laguna,Bus,Bus,Rickshaw,Bus
+8,52,Male,25000,No,,200,2.5,Walking,Laguna,Laguna,Rickshaw,CNG
+8,19,Male,0,No,,350,1.8,Walking,Bus,Bus,Bus,Bus
+8,22,Male,10000,No,,600,5.5,Walking,Bus,Bus,Bus,Bus
+8,27,Male,15000,No,,200,5,Walking,Bus,Bus,Laguna,Bus
+8,30,Male,18000,No,,700,3.6,Walking,Bus,Bus,Bus,Bus
+8,36,Male,23000,Yes,Motorcycle,450,3.2,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+8,24,Male,12000,No,,350,2,Walking,Bus,Bus,Bus,Bus
+8,20,Male,0,No,,400,1.8,Walking,Bus,Bus,Laguna,CNG
+8,28,Male,22000,No,,600,2.5,Rickshaw,Bus,Bus,Bus,Bus
+8,32,Male,20000,No,,700,4.5,Bus,Bus,Laguna,Laguna,Bus
+8,45,Male,35000,Yes,Motorcycle,400,6,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+8,37,Male,28000,No,,300,3.6,Rickshaw,Bus,Bus,Rickshaw,CNG
+8,28,Male,15000,No,,250,1.8,Laguna,Laguna,Laguna,Bus,CNG
+8,27,Male,16000,No,,350,2.8,Walking,Bus,Bus,Laguna,CNG
+8,24,Male,15000,No,,450,2.5,Walking,Bus,Bus,Bus,Bus
+8,26,Male,10000,No,,600,1.5,Walking,Laguna,Laguna,Bus,Bus
+8,30,Male,18000,No,,1000,3.5,Bus,Bus,Bus,Laguna,Bus
+8,35,Male,24000,Yes,Motorcycle,200,4.5,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+8,24,Female,12000,No,,350,2.5,Walking,Bus,Bus,Rickshaw,CNG
+2,22,Male,10000,No,,250,3.7,Walking,Bus,,Bus,
+2,36,Male,25000,No,Motorcycle,450,2.5,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+2,29,Male,18000,No,,500,1.8,Laguna,Laguna,Laguna,Laguna,
+2,27,Male,15000,No,,350,2.6,Laguna,Bus,Bus,Bus,
+2,24,Male,12000,No,,600,2,Bus,Bus,Bus,Bus,
+2,20,Male,0,No,,800,3.6,Walking,Bus,Laguna,Laguna,
+2,19,Male,0,No,,400,4,Walking,Bus,Bus,Bus,
+2,42,Male,32000,No,,200,2.8,Rickshaw,Bus,Bus,Bus,
+2,38,Male,28000,No,Motorcycle,100,3.6,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+2,36,Male,20000,No,,500,3.5,Bus,Bus,Bus,Bus,
+2,27,Male,18000,No,Motorcycle,350,4.2,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+2,25,Male,15000,No,,900,5,Bus,Laguna,Bus,Laguna,
+2,22,Female,8000,No,,450,2.5,Bus,Bus,Bus,Bus,
+2,20,Male,0,No,,400,3,Walking,Bus,Bus,Bus,
+2,45,Male,30000,No,,350,4,Rickshaw,Bus,Bus,Bus,
+2,50,Male,45000,Yes,CNG,250,4.5,CNG,CNG,CNG,CNG,CNG
+2,56,Male,35000,Yes,CNG,1000,4,CNG,CNG,CNG,CNG,CNG
+2,36,Male,24000,Yes,Motorcycle,300,5.6,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+2,34,Male,19500,No,,250,2.8,Bus,Laguna,Bus,Laguna,
+2,30,Female,12000,No,,200,1.8,Laguna,Bus,Bus,Bus,
+2,33,Male,18000,Yes,Motorcycle,600,2.2,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+2,26,Female,13000,No,,250,3.6,Rickshaw,Bus,Bus,Bus,
+2,28,Male,24000,Yes,Motorcycle,500,3.6,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+2,44,Male,35000,Yes,Motorcycle,350,4.5,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+2,38,Male,24000,No,,200,3.2,Bus,Bus,Bus,Bus,
+2,52,Male,50000,Yes,CNG,150,4,CNG,CNG,CNG,CNG,CNG
+2,45,Male,32000,No,,450,5,Rickshaw,Bus,Bus,Bus,
+2,36,Male,16000,No,,350,3.2,Laguna,Mahindra,Laguna,Mahindra,
+2,22,Female,15000,No,,300,2,Rickshaw,Bus,Bus,Bus,
+2,24,Female,12000,No,,250,1.8,Bus,Rickshaw,Rickshaw,Rickshaw,
+4,33,Male,28000,Yes,Motorcycle,250,18,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+4,39,Male,22000,No,,50,3.8,Bus,Bus,Bus,Walking,Walking
+4,17,Male,5000,No,,50,13,Bus,Bus,Walking,Walking,Bus
+4,27,Male,20000,No,,100,5.4,Bus,Bus,Bus,Walking,Walking
+4,31,Male,25000,No,,300,2.3,Bus,Bus,Bus,Rickshaw,CNG
+4,19,Male,18000,No,,50,1.2,Bus,Mahindra,Mahindra,Walking,Walking
+4,20,Female,0,No,,50,9.4,Bus,Bus,,Rickshaw,CNG
+4,48,Male,35000,No,,100,0.75,CNG,Walking,Walking,Rickshaw,Rickshaw
+4,16,Male,0,No,,150,10,Bus,Bus,Bus,Walking,Walking
+4,18,Male,8000,No,,100,1,Walking,Walking,Walking,Walking,Bus
+4,42,Male,30000,No,,100,13,Bus,Bus,Bus,Walking,Bus
+4,24,Male,15000,No,,50,18,Bus,Bus,Bus,Walking,Rickshaw
+4,27,Male,18000,Yes,Motorcycle,200,2,Motorcycle,Motorcycle,Motorcycle,Motorcycle,CNG
+4,39,Male,30000,No,,100,9.2,Bus,Bus,Bus,Rickshaw,Rickshaw
+4,25,Male,16000,No,,150,3.3,Bus,Bus,Bus,Walking,Walking
+4,23,Female,7000,No,,150,7.1,Laguna,Bus,Bus,Rickshaw,Bus
+4,39,Male,40000,Yes,Motorcycle,100,13,Rickshaw,Bus,Bus,Rickshaw,CNG
+4,21,Male,12000,No,,50,5.5,Mahindra,Mahindra,Rickshaw,Walking,CNG
+4,31,Male,25000,No,,100,8,Bus,Bus,Bus,Walking,Bus
+4,61,Male,30000,No,,50,1,Rickshaw,Rickshaw,Rickshaw,Rickshaw,Rickshaw
+4,17,Male,6000,No,,100,0.5,Bus,Walking,Walking,Walking,Bus
+4,33,Female,22000,No,,50,6.8,Bus,Bus,Bus,Rickshaw,Rickshaw
+4,21,Male,9000,No,,100,8.2,Bus,Bus,Bus,Walking,Bus
+4,36,Male,25000,Yes,Motorcycle,100,6.3,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+4,29,Male,18000,No,,200,1.2,Bus,Walking,Walking,Walking,Bus
+4,16,Female,0,No,,50,1.3,Rickshaw,Rickshaw,,Walking,Rickshaw
+4,43,Male,35000,No,,250,7.2,Bus,Bus,Bus,Walking,Bus
+4,26,Male,15000,No,,100,1.6,Laguna,Laguna,Laguna,Walking,Walking
+4,34,Male,30000,No,,150,2.3,Bus,Bus,Bus,Rickshaw,Bus
+4,16,Male,8000,Yes,Motorcycle,100,1.7,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+6,28,Male,22000,Yes,Motorcycle,50,7.2,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+6,33,Male,19000,No,,100,3.8,Bus,Bus,Bus,Walking,Walking
+6,17,Male,8000,No,,200,5.6,Bus,Bus,Walking,Walking,Bus
+6,47,Male,28000,No,,100,5.4,Bus,Bus,Bus,Walking,Walking
+6,39,Male,25000,No,,300,6.5,Bus,Bus,Bus,Rickshaw,CNG
+6,19,Male,18000,No,,50,1.2,Bus,Laguna,Walking,Walking,Walking
+6,27,Female,22000,No,,200,3.8,Bus,Bus,Bus,Rickshaw,CNG
+6,44,Male,35000,No,,100,1.2,CNG,Walking,Walking,Rickshaw,Rickshaw
+6,18,Male,0,No,,150,10,Bus,Bus,,Walking,Walking
+6,16,Male,8000,No,,100,1,Walking,Walking,Walking,Walking,Bus
+6,38,Male,30000,No,,100,8.8,Bus,Bus,Bus,Walking,Bus
+6,26,Male,15000,No,,50,11,Bus,Bus,Bus,Walking,Rickshaw
+6,22,Male,18000,Yes,Motorcycle,200,2.1,Motorcycle,Motorcycle,Motorcycle,Motorcycle,CNG
+6,37,Male,30000,No,,150,4.3,Bus,Bus,Bus,Rickshaw,Rickshaw
+6,21,Female,16000,No,,150,3.8,Bus,Bus,Bus,Walking,Walking
+6,20,Female,7000,No,,150,2.5,Laguna,Bus,Bus,Rickshaw,Bus
+6,49,Male,40000,Yes,Motorcycle,100,7,Rickshaw,Motorcycle,Motorcycle,Motorcycle,CNG
+6,23,Male,12000,No,,50,5.9,Mahindra,Bus,Bus,Walking,Bus
+6,25,Male,26000,No,,200,8,Bus,Bus,Bus,Walking,Bus
+6,58,Male,30000,No,,100,1.8,Rickshaw,Rickshaw,Rickshaw,Rickshaw,Rickshaw
+6,17,Male,8000,No,,100,2.6,Bus,Laguna,Walking,Walking,Bus
+6,26,Female,22000,No,,50,4.9,Bus,Bus,Bus,Rickshaw,Rickshaw
+6,19,Male,9000,No,,100,6.6,Bus,Bus,Bus,Walking,Bus
+6,35,Male,25000,Yes,Motorcycle,100,2.5,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+6,23,Male,18000,No,,200,1.2,Bus,Walking,Walking,Walking,Bus
+6,18,Female,0,No,,50,2,Rickshaw,Rickshaw,,Walking,Rickshaw
+6,45,Male,35000,No,,150,8.8,Bus,Bus,Bus,Walking,Bus
+6,24,Male,15000,No,,100,1.6,Laguna,Laguna,Laguna,Walking,Walking
+6,38,Male,30000,No,,150,3.5,Bus,Bus,Bus,Rickshaw,Bus
+6,17,Male,7000,Yes,Motorcycle,100,1.8,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+16,56,Male,60000,No,,150,1.3,Rickshaw,Rickshaw,Rickshaw,Rickshaw,CNG
+16,37,Male,25000,No,,100,2.4,Bus,Bus,Bus,Walking,Walking
+16,28,Male,20000,No,,100,3.8,Laguna,Laguna,Laguna,Walking,Bus
+16,22,Male,10000,No,,100,1.8,Bus,Laguna,Walking,Walking,Walking
+16,20,Female,8000,No,,100,0.8,Rickshaw,Walking,Walking,Rickshaw,Rickshaw
+16,33,Male,28000,No,,200,3.1,Bus,Bus,Bus,Walking,Walking
+16,17,Male,6000,No,,50,5,Bus,Laguna,Walking,Walking,Bus
+16,25,Male,16000,Yes,Motorcycle,100,1,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+16,42,Male,22000,No,,200,4.2,Bus,Bus,Bus,Walking,Walking
+16,20,Male,12000,Yes,Motorcycle,50,4.4,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+16,24,Male,10000,No,,100,2.4,Bus,Bus,Walking,Walking,Bus
+16,19,Male,10000,No,,150,1,Bus,Laguna,Laguna,Walking,Rickshaw
+16,48,Male,35000,Yes,Motorcycle,150,6.1,Motorcycle,Motorcycle,Motorcycle,Motorcycle,CNG
+16,43,Male,30000,No,,50,2.5,Bus,Bus,Bus,Rickshaw,Rickshaw
+16,20,Male,8000,Yes,Motorcycle,200,4,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Walking
+16,23,Female,6000,No,,50,1.3,Rickshaw,Rickshaw,Walking,Rickshaw,CNG
+16,18,Male,3000,No,,50,5,Bus,Laguna,Walking,Walking,Walking
+16,24,Male,9000,No,,100,2.6,Laguna,Laguna,Walking,Walking,Bus
+16,33,Male,22000,No,,250,5.1,Bus,Bus,,Walking,Bus
+16,37,Male,28000,Yes,Motorcycle,100,11,Bus,Bus,Motorcycle,Motorcycle,Motor cycle
+16,21,Male,12000,Yes,Motorcycle,150,3.4,Laguna,Laguna,Motorcycle,Motorcycle,Walking
+16,53,Male,45000,No,,50,16,Bus,Bus,Bus,Rickshaw,CNG
+16,27,Male,30000,Yes,Motorcycle,50,1,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+16,31,Male,35000,No,,100,19,Bus,Bus,Bus,Rickshaw,Bus
+16,20,Male,10000,No,,200,1.2,Bus,Laguna,Bus,Walking,Bus
+16,17,Female,0,No,,50,1,Rickshaw,Rickshaw,,Walking,Rickshaw
+16,43,Male,25000,No,,100,2.1,Bus,Bus,Bus,Walking,Bus
+16,19,Male,0,No,,150,2,Bus,Laguna,,Walking,Walking
+16,46,Male,30000,No,,250,3.3,Bus,Bus,Bus,Rickshaw,CNG
+16,31,Female,0,No,,100,0.5,Rickshaw,Rickshaw,,Rickshaw,
+21,16,Male,3000,No,,100,1.7,Walking,Laguna,Walking,Walking,Bus
+21,42,Male,20000,No,,200,1.7,Bus,Laguna,Laguna,Walking,Rickshaw
+21,22,Male,12000,Yes,Motorcycle,50,4.9,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+21,27,Female,18000,No,,100,0.4,Rickshaw,Walking,Walking,Walking,Walking
+21,32,Male,40000,Yes,Motorcycle,150,2.3,Motorcycle,Motorcycle,Motorcycle,Walking,Motor cycle
+21,26,Male,12000,Yes,Motorcycle,300,3.7,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+21,21,Female,6000,No,,200,1,Rickshaw,Walking,Walking,Rickshaw,Walking
+21,25,Female,10000,No,,200,3.8,Walking,Walking,Walking,Walking,Walking
+21,25,Male,10000,No,,400,3.7,Walking,Bus,Walking,Walking,Bus
+21,45,Male,50000,No,,300,18,Bus,Bus,Bus,Walking,Bus
+21,36,Male,35000,No,,100,2.8,Rickshaw,Laguna,Laguna,Rickshaw,Rickshaw
+21,17,Male,0,No,,50,2.4,Walking,Bus,,Walking,Walking
+21,30,Male,32000,No,,50,6.9,Bus,Bus,Bus,Walking,Bus
+21,31,Male,28000,Yes,Motorcycle,300,4.7,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+21,25,Female,7000,No,,50,0.7,Rickshaw,Rickshaw,Walking,Rickshaw,Rickshaw
+21,52,Male,42000,No,,50,3.3,Rickshaw,Bus,Bus,Rickshaw,CNG
+21,29,Male,17000,No,,100,1,Bus,Bus,Bus,Walking,Walking
+21,15,Male,0,No,,100,1.8,Bus,Bus,,Walking,Walking
+21,16,Male,0,No,,200,2,Walking,Laguna,,Walking,Walking
+21,31,Male,22000,No,,50,2.5,Bus,Bus,Bus,Motorcycle,Bus
+21,56,Male,18000,No,,100,0.5,Walking,Walking,Walking,Walking,Walking
+21,23,Female,15000,No,,200,1,Bus,Walking,Walking,Walking,Walking
+21,42,Male,30000,No,,250,2.7,Bus,Bus,Bus,Walking,Walking
+21,23,Male,13000,Yes,Motorcycle,50,2.3,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+21,36,Male,28000,No,,150,3.3,Bus,Bus,Bus,Walking,Bus
+21,27,Male,35000,No,,200,5.6,Bus,Bus,Bus,Walking,Walking
+21,19,Male,9000,No,,100,2.4,Bus,Bus,Bus,Walking,Bus
+21,17,Female,0,No,,150,1.3,Rickshaw,Rickshaw,,Rickshaw,Walking
+21,22,Male,6000,No,,200,2.1,Bus,Walking,Walking,Walking,Walking
+21,28,Male,25000,Yes,Motorcycle,100,1,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motor cycle
+22,26, Male,15000,No,,100,2.3,Rickshaw,Laguna,Laguna,Rickshaw,others
+22,27,Male ,20000,No,,100,3.6,Walking,Bus,Bus,CNG,CNG
+22,36,Male ,40000,No,,130,8,Rickshaw,CNG,CNG,CNG,CNG
+22,48,Male ,1500000,Yes,Car,250,8,others,others,others,others,others
+22,40,Male ,35000,No,,100,10,Rickshaw,CNG,Bus,Rickshaw,CNG
+22,56,Male ,45000,No,,100,3,Walking,CNG,Bus,Rickshaw,CNG
+22,24,Male ,12000,No,,150,4,Walking,Laguna,Laguna,CNG,CNG
+22,45,Male ,100000,Yes,Car,330,4.3,others,others,others,others,others
+22,28,Male ,17000,No,,300,8,Walking,Bus,Bus,Rickshaw,CNG
+22,52,Male ,200000,Yes,Car,200,12,others,others,others,others,others
+22,22,Male ,7000,No,,200,7,Walking,Bus,Motorcycle,Rickshaw,Motorcycle
+22,23,Male ,90000,No,,120,6,Rickshaw,Bus,Bus,CNG,CNG
+22,42,Male ,50000,Yes,Car,300,10,others,others,others,others,others
+22,20,Male ,60000,No,,500,5,Walking,Bus,Bus,CNG,CNG
+22,36,Male ,32000,No,,800,8,Rickshaw,Bus,Bus,CNG,CNG
+22,32,Male ,25000,No,,200,10,Rickshaw,CNG,Rickshaw,Rickshaw,Rickshaw
+22,35,Female ,25000,No,,200,3,Rickshaw,Rickshaw,Rickshaw,CNG,CNG
+22,38,Female ,22000,Yes,Car,300,4,others,others,others,others,others
+22,28,Male ,16000,No,,240,5,Walking,Bus,Bus,CNG,CNG
+22,24,Female ,12000,No,,200,2.7,Rickshaw,Bus,Bus,Rickshaw,CNG
+22,45,Male ,20000,No,,430,3.4,Walking,Rickshaw,Rickshaw,Rickshaw,CNG
+22,20,Female ,0,No,,200,5,Walking,Bus,Bus,CNG,CNG
+22,25,Female ,16000,Yes,Car,200,6,others,others,others,Rickshaw,CNG
+22,27,Female ,15000,No,,500,4,Rickshaw,Rickshaw,Rickshaw,Rickshaw,Rickshaw
+22,31,Female ,20000,No,,300,5,others,Rickshaw,Rickshaw,CNG,CNG
+22,32,Female ,25000,Yes,Car,400,8,others,others,others,others,others
+22,27,Male ,20000,No,,400,2.9,Rickshaw,Bus,Bus,Rickshaw,Rickshaw
+22,25,Female ,13000,Yes,Car,400,3.2,others,others,others,others,others
+22,22,Female ,16000,No,,300,2.7,Rickshaw,Rickshaw,Rickshaw,Rickshaw,CNG
+22,26,Male ,28000,Yes,Car,300,7,others,others,others,others,others
+24,25,Male ,20000,No,,700,2,Rickshaw,Bus,Bus,CNG,CNG
+24,28,Male ,50000,Yes,Motorcycle,500,1.7,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+24,31,Male ,20000,No,,230,4.8,Rickshaw,Motorcycle,Bus,CNG,CNG
+24,35,Female ,16000,No,,300,3,others,others,Bus,Rickshaw,Rickshaw
+24,22,Female ,12000,No,,400,1.5,Rickshaw,CNG,CNG,CNG,CNG
+24,25,Male ,20000,No,,450,3,Rickshaw,Bus,Bus,Rickshaw,Rickshaw
+24,36,Male ,25000,No,,200,4,Walking,Bus,Bus,CNG,CNG
+24,30,Male ,25000,No,,820,5,Walking,Bus,Bus,Rickshaw,Rickshaw
+24,42,Male ,35000,No,Motorcycle,340,4,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+24,37,Male ,30000,No,,300,7,Rickshaw,CNG,CNG,CNG,CNG
+24,52,Male ,40000,No,,280,5.7,Rickshaw,CNG,CNG,CNG,CNG
+24,44,Male ,60000,Yes,Motorcycle,150,3,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+24,28,Female ,18000,No,,200,5,Rickshaw,Rickshaw,Rickshaw,Rickshaw,Rickshaw
+24,23,Female ,9000,No,,370,4,Walking,Rickshaw,Rickshaw,Rickshaw,Rickshaw
+24,20,Female ,4000,No,,400,5,Walking,Rickshaw,Rickshaw,Rickshaw,Rickshaw
+24,24,Male ,10000,No,,600,6,Rickshaw,Bus,Bus,Bus,Bus
+24,33,Male ,240000,Yes,Car,700,5,others,others,others,others,others
+24,27,Male ,15000,No,,100,8,Laguna,Bus,Bus,Bus,Bus
+24,23,Male ,6000,No,,200,10,others,Bus,Bus,Bus,Bus
+24,25,Male ,20000,Yes,Motorcycle,700,12,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+24,28,Male ,25000,No,,400,3,Rickshaw,CNG,CNG,CNG,CNG
+24,32,Male ,20000,No,,600,3,Walking,CNG,CNG,CNG,CNG
+24,20,Female ,12000,No,,200,2,others,Bus,Bus,Bus,Bus
+24,22,Male ,9000,No,,500,6,Rickshaw,Bus,Bus,Bus,Bus
+24,20,Female ,3000,No,,400,2.6,Walking,Bus,Bus,Bus,Bus
+24,24,Male ,12000,No,,700,1.8,Walking,Bus,Bus,Bus,Bus
+24,32,Male ,7000,No,,100,4,Rickshaw,Bus,Bus,Bus,Bus
+24,24,Male ,15000,No,,300,3.2,others,Laguna,Laguna,Laguna,Laguna
+24,25,Male ,15000,No,,400,5,Walking,Laguna,Laguna,Laguna,Laguna
+24,26,Male ,20000,No,,200,4.6,Walking,Bus,Bus,Bus,Bus
+24,25,Male ,220000,Yes,Car,400,5,others,others,others,others,others
+10,56,Male,800000,Yes,Car,250,6,others,others,others,others,others
+10,36,Male,40000,Yes,Motorcycle,100,2.3,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+10,27,Male,18000,No,,100,3.6,Rickshaw,Bus,Bus,CNG,CNG
+10,25,Male,16000,No,,130,8,Laguna,Bus,Bus,CNG,Motorcycle
+10,31,Male,25000,No,,250,8,Rickshaw,CNG,CNG,Rickshaw,CNG
+10,27,Female ,15000,No,,100,10,Rickshaw,Bus,Bus,CNG,Rickshaw
+10,31,Male,35000,Yes,Motorcycle,100,3,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+10,42,Male,70000,No,,150,4,Rickshaw,CNG,CNG,CNG,Rickshaw
+10,24,Male,6000,No,,330,4.3,Rickshaw,CNG,CNG,CNG,CNG
+10,35,Male,40000,Yes,Motorcycle,300,8,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+10,20,Female ,3000,No,,200,12,Rickshaw,Bus,Bus,Rickshaw,Motorcycle
+10,38,Male,50000,Yes,Car,200,7,others,Car,Car,others,CNG
+10,30,Male,32000,No,,120,6,Rickshaw,CNG,CNG,CNG,CNG
+10,29,Male,25000,No,,300,10,Walking,CNG,CNG,CNG,Motorcycle
+10,32,Male,22000,No,,500,5,Walking,CNG,CNG,CNG,Rickshaw
+10,19,Male,2500,No,,800,8,Walking,Bus,Bus,Bus,Rickshaw
+10,35,Male,50000,Yes,Car,200,10,others,others,others,others,others
+10,22,Male,6000,No,,200,3,Walking,Bus,Bus,Bus,Bus
+10,28,Male,15000,No,,300,4,Walking,Bus,Bus,Rickshaw,Motorcycle
+10,24,Female ,8000,No,,240,5,Rickshaw,Bus,Bus,Bus,Bus
+10,25,Male,15000,No,,200,2.7,Walking,Bus,Bus,Bus,Bus
+10,40,Male,100000,Yes,Car,430,3.4,others,others,others,others,others
+10,25,Male,22000,No,,200,5,Rickshaw,Bus,Bus,Rickshaw,CNG
+10,27,Male,18000,No,,200,6,Rickshaw,Bus,Bus,Rickshaw,CNG
+10,24,Male,20000,No,,500,4,Rickshaw,CNG,Bus,CNG,Bus
+10,35,Male,60000,Yes,Motorcycle,300,5,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+10,22,Female ,7000,No,,400,8,Walking,Bus,Bus,Rickshaw,Bus
+10,32,Male,70000,No,,400,2.9,Rickshaw,CNG,CNG,CNG,Bus
+10,37,Male,50000,Yes,Motorcycle,400,3.2,Motorcycle,Motorcycle,Motorcycle,Motocyle,Motorcycle
+10,25,Male,16000,No,,300,2.7,Walking,Bus,Bus,CNG,Laguna
+10,42,Male,500000,Yes,Car,300,7,others,Car,others,others,others
+31,26,Male ,15000,No,,700,2.3,Rickshaw,Laguna,Laguna,Rickshaw,others
+31,27,Male ,20000,No,,500,3.6,Motorcycle,Bus,Bus,CNG,CNG
+31,36,Male ,40000,No,,230,8,Rickshaw,CNG,CNG,CNG,CNG
+31,48,Female ,1500000,Yes,Car,300,8,others,others,others,others,others
+31,40,Female ,35000,No,,400,10,Rickshaw,CNG,Bus,Rickshaw,CNG
+31,56,Male ,45000,No,,450,3,Rickshaw,CNG,Bus,Rickshaw,CNG
+31,24,Male ,12000,No,,200,4,Walking,Laguna,Laguna,CNG,CNG
+31,45,Male ,100000,Yes,Motorcycle,820,4.3,Walking,others,others,others,others
+31,28,Male ,17000,No,,340,8,Motorcycle,Bus,Bus,Rickshaw,CNG
+31,52,Male ,200000,Yes,Car,300,12,Rickshaw,others,others,others,others
+31,22,Male ,7000,No,,280,7,Rickshaw,Bus,Motorcycle,Rickshaw,Motorcycle
+31,23,Male ,90000,No,,150,6,Motorcycle,Bus,Bus,CNG,CNG
+31,42,Female ,50000,Yes,Motorcycle,200,10,Rickshaw,others,Motorcycle,Motorcycle,Motorcycle
+31,20,Female ,60000,No,,370,5,Walking,Bus,Bus,CNG,CNG
+31,36,Female ,32000,No,,400,8,Walking,Bus,Bus,CNG,CNG
+31,32,Male ,25000,No,,600,10,Rickshaw,CNG,Rickshaw,Rickshaw,Rickshaw
+31,35,Male ,25000,No,,700,3,others,Rickshaw,Rickshaw,CNG,CNG
+31,38,Male ,22000,Yes,Car,100,4,Laguna,others,others,others,others
+31,28,Male ,16000,No,,200,5,others,Bus,Bus,CNG,CNG
+31,24,Male ,12000,No,,700,2.7,Motorcycle,Bus,Bus,Rickshaw,CNG
+31,45,Male ,20000,No,,400,3.4,Rickshaw,Rickshaw,Rickshaw,Rickshaw,CNG
+31,20,Male ,0,No,,600,5,Walking,Bus,Bus,CNG,CNG
+31,25,Female ,16000,Yes,,200,6,others,others,others,Rickshaw,CNG
+31,27,Male ,15000,No,,500,4,Rickshaw,Rickshaw,Rickshaw,Rickshaw,Rickshaw
+31,31,Female ,20000,No,,400,5,Walking,Rickshaw,Rickshaw,CNG,CNG
+31,32,Male ,25000,Yes,Motorcycle,700,8,Walking,others,Motorcycle,Motorcycle,Motorcycle
+31,27,Male ,20000,No,,100,2.9,Rickshaw,Bus,Bus,Rickshaw,Rickshaw
+31,25,Male ,13000,Yes,Motorcycle,300,3.2,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+31,22,Male ,16000,No,,400,2.7,Walking,Rickshaw,Rickshaw,Rickshaw,CNG
+31,26,Male ,28000,Yes,Motorcycle,200,2.8,Walking,others,Motorcycle,Motorcycle,Motorcycle
+32,25,Male,20000,No,,250,2,Rickshaw,Laguna,Laguna,Rickshaw,others
+32,28,Male,50000,Yes,Motorcycle,100,1.7,Motorcycle,Motorcycle,Motorcycle,CNG,Motorcycle
+32,31,Male,20000,No,,100,4.8,Rickshaw,CNG,Bus,CNG,CNG
+32,35,Male,16000,No,,130,3,others,others,Bus,others,Motorcycle
+32,22,Male,12000,No,,250,1.5,Rickshaw,CNG,CNG,Rickshaw,CNG
+32,25,Female ,20000,No,,100,3,Rickshaw,CNG,Bus,Rickshaw,Rickshaw
+32,36,Male,25000,No,,100,4,Walking,Laguna,Motorcycle,CNG,Motorcycle
+32,30,Male,25000,No,,150,5,Walking,others,CNG,others,Rickshaw
+32,42,Male,35000,No,Motorcycle,330,4,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+32,37,Male,30000,No,,300,7,Rickshaw,others,Motorcycle,others,Motorcycle
+32,52,Female ,40000,No,,200,5.7,Rickshaw,Bus,Bus,Rickshaw,Motorcycle
+32,44,Male,60000,Yes,Motorcycle,200,3,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+32,28,Male,18000,No,,120,5,Rickshaw,others,CNG,others,CNG
+32,23,Male,9000,No,,300,4,Walking,Bus,CNG,CNG,Motorcycle
+32,20,Male,4000,No,,500,5,Walking,Bus,CNG,CNG,Rickshaw
+32,24,Male,10000,No,,800,6,Rickshaw,CNG,Bus,Rickshaw,Rickshaw
+32,33,Male,240000,Yes,Car,200,5,others,others,others,others,others
+32,27,Male,15000,No,,200,8,Laguna,Bus,Bus,others,Bus
+32,23,Male,6000,No,,300,10,others,Bus,Bus,CNG,Motorcycle
+32,25,Female ,20000,Yes,Motorcycle,240,12,Motorcycle,Motorcycle,Motorcycle,Motorcycle,Motorcycle
+32,28,Male,25000,No,,200,3,Rickshaw,Rickshaw,Bus,Rickshaw,Bus
+32,32,Male,20000,No,,430,3,Walking,Bus,others,CNG,others
+32,20,Male,12000,No,,200,2,others,others,Bus,Rickshaw,CNG
+32,22,Male,9000,No,,200,6,Rickshaw,Rickshaw,Bus,Rickshaw,CNG
+32,20,Male,3000,No,,500,2.6,Walking,Rickshaw,Bus,CNG,Bus
+32,24,Male,12000,No,,300,1.8,Walking,others,Motorcycle,others,Motorcycle
+32,32,Female ,7000,No,,400,4,Rickshaw,Bus,Bus,Rickshaw,Bus
+32,24,Male,15000,No,,400,3.2,others,others,CNG,others,Bus
+32,25,Male,15000,No,,400,5,Walking,Rickshaw,Motorcycle,Rickshaw,Motorcycle
+32,26,Male,20000,No,,300,4.6,Walking,Bus,Bus,others,Laguna
+32,25,Male,220000,Yes,Car,300,5,others,others,others,,others
+20,18,Female,9500,No,-,900,11,Walking,Bus,Bus,Bus,-
+20,18,Female,9500,No,-,900,11,Walking,Bus,Bus,Bus,-
+20,21,Female,9500,No,-,900,11,Walking,Bus,Bus,Bus,-
+20,26,Male,1200,No,-,900,11,Walking,Bus,Bus,Bus,-
+20,25,Male,1200,No,-,900,11,Walking,Bus,Bus,Bus,-
+20,22,Male,1300,No,-,900,11,Walking,Bus,Bus,Bus,-
+20,25,Male,15000,No,-,900,11,Walking,others,Bus,Bus,-
+20,32,Male,15000,Yes,Motorcycle,900,11,Walking,Bus,Bus,Bus,-
+20,40,Female,15000,No,-,900,11,Walking,Bus,Bus,CNG,CNG
+20,42,Male,25000,No,-,900,5.5,Walking,Bus,Bus,Bus,-
+20,53,Male,200000,No,-,250,1.7,Walking,Bus,Rickshaw,Walking,-
+20,28,Male,12000,No,-,500,5.5,Walking,Bus,Bus,Bus,-
+20,20,Male,7000,No,-,500,8.2,Walking,others,others,Bus,-
+20,28,Male,20000,No,-,900,2.7,Rickshaw,Bus,Bus,Bus,-
+20,40,Male,40000,No,-,500,3.5,Walking,CNG,CEG,Rickshaw,
+20,28,Male,20000,No,-,500,8.1,Rickshaw,Bus,Bus,Bus,Bus
+20,34,Male,30000,No,-,500,1,Walking,Rickshaw,Rickshaw,CNG,-
+20,20,Male,8000,No,-,500,1,Rickshaw,Rickshaw,Walking,Rickshaw,-
+20,46,Male,10000,No,-,600,2.5,Rickshaw,Bus,Bus,Rickshaw,CNG
+20,33,Male,15000,No,-,500,1.2,Rickshaw,Bus,Walking,CNG,CNG
+20,25,Male,0,Yes,Motorcycle,500,1.2,Motorcycle,Motorcycle,Motorcycle,Motorcycle,-
+20,23,Male,12000,Yes,Motorcycle,800,8.9,Walking,Bus,Bus,Walking,-
+20,30,Male,10000,No,-,800,8.4,Walking,Bus,Bus,Bus,-
+20,45,Male,30000,Yes,Motorcycle,200,8.8,Walking,others,others,Bus,-
+20,38,Male,16000,No,-,900,5,Walking,Bus,Bus,Bus,-
+20,24,Male,6000,No,-,200,8.7,Walking,Bus,Bus,Bus,-
+20,37,Male,12000,No,-,500,8.2,Walking,Bus,Bus,Bus,-
+20,35,Male,20000,No,-,900,2.2,Walking,Bus,Bus,Bus,-
+20,30,Male,20000,No,-,500,2.1,Walking,Bus,Bus,Bus,-
+20,18,Male,0,No,-,900,1,Walking,Bus,Bus,Bus,
+39,32,Female,0,No,-,500,2.5,Walking,Walking,Walking,CNG,-
+39,19,Female,0,No,-,500,12,Rickshaw,Bus,-,Rickshaw,-
+39,41,Male,20000,No,-,700,2.6,Walking,Bus,Bus,Bus,-
+39,58,Male,20000,No,-,500,8.1,Walking,Bus,Bus,Walking,-
+39,38,Male,20000,No,-,900,10,Walking,Bus,Bus,Bus,-
+39,20,Female,20000,No,-,250,1,Walking,Walking,Walking,Rickshaw,-
+39,20,Female,20000,No,-,500,2.6,Walking,Walking,Walking,Walking,-
+39,20,Female,20000,No,-,500,2.6,Walking,Rickshaw,Walking,Walking,-
+39,26,Male,20000,No,-,200,2.6,Walking,CNG,CNG,Walking,-
+39,38,Male,20000,No,-,200,2.6,Walking,Bus,CNG,Rickshaw,-
+39,21,Female,20000,No,-,500,11,Walking,Bus,Bus,Walking,-
+39,19,Male,20000,No,-,500,1,Walking,Walking,Walking,Walking,-
+39,25,Male,20000,Yes,Motorcycle,500,1,Walking,Walking,Walking,Walking,-
+39,12,Male,0,Yes,Cycle,500,1,Walking,Walking,Walking,Rickshaw,-
+39,12,Male,0,No,-,500,1,Walking,Walking,Walking,Walking,-
+39,25,Male,15000,No,-,500,1,Walking,Bus,Walking,Walking,-
+39,22,Female,15000,No,-,500,1,Walking,Walking,Walking,Walking,-
+39,26,Male,8000,No,-,250,1,Walking,Walking,Walking,Walking,-
+39,25,Male,20000,No,-,250,1,Walking,Walking,Walking,Walking,-
+39,21,Male,0,No,-,250,1,Walking,Rickshaw,Walking,Walking,-
+39,26,Male,10000,No,-,250,1,Walking,Walking,Walking,Walking,-
+39,21,Male,10000,No,-,500,1,Walking,Walking,Walking,Bus,-
+39,35,Male,25000,No,-,500,1,Walking,Walking,Walking,Walking,-
+39,27,Male,20000,No,-,500,2.6,Walking,Bus,Walking,Walking,-
+39,18,Female,8000,No,-,700,2.6,Walking,Rickshaw,Walking,Walking,-
+39,18,Female,8000,No,-,700,2.6,Walking,Rickshaw,Walking,Walking,-
+39,20,Female,14000,No,-,500,1,Walking,Rickshaw,Walking,Walking,-
+39,29,Female,19000,No,-,500,2.6,Walking,Rickshaw,Walking,Walking,-
+39,19,Female,12000,No,-,500,1,Walking,Walking,Walking,Walking,-
+39,18,Female,10000,No,-,500,2.6,Walking,Walking,Walking,Walking,-
+39,18,Female,8000,No,-,250,1,Walking,Walking,Walking,Walking,-
+14,25,Male,30000,Yes,Motorcycle,900,6.5,Walking,Motorcycle,Motorcycle,Motorcycle,-
+14,33,Male,9000,Yes,Motorcycle,100,1.9,Walking,Motorcycle,Motorcycle,Motorcycle,-
+14,30,Male,10000,Yes,Motorcycle,900,6.2,Walking,Motorcycle,Motorcycle,Motorcycle,-
+14,27,Male,20000,Yes,Motorcycle,500,1.9,Walking,Motorcycle,Motorcycle,Motorcycle,-
+14,19,Female,0,No,-,800,8.9,Walking,Bus,-,Bus,-
+14,36,Male,18000,No,-,900,3.8,Walking,Rickshaw,Rickshaw,Rickshaw,-
+14,32,Male,12000,No,-,900,5.3,Walking,Bus,Bus,Bus,-
+14,41,Male,15000,No,-,200,2.2,Walking,others,others,Bus,-
+14,23,Male,800,No,-,500,1.3,Walking,Bus,Bus,Bus,-
+14,64,Male,9000,No,-,950,1.9,Rickshaw,Bus,Bus,Bus,-
+14,39,Male,11000,No,-,300,2.2,Walking,Rickshaw,Rickshaw,Bus,-
+14,28,Male,20000,No,-,900,6.5,Walking,Bus,Bus,Walking,-
+14,35,Male,15000,No,-,500,6.2,Walking,Bus,Bus,Walking,-
+14,25,Male,8000,No,-,850,2.2,Walking,Bus,Bus,Bus,-
+14,28,Male,13000,Yes,Cycle,700,7,Walking,Bus,Bus,Bus,-
+14,21,Female,10000,No,-,750,8.9,Walking,Bus,Bus,Bus,-
+14,21,Male,8000,No,-,900,2.9,Walking,Bus,Bus,Rickshaw,-
+14,18,Female,10000,No,-,900,2.9,Walking,Bus,Bus,Rickshaw,-
+14,22,Male,9000,No,-,700,1.2,Walking,Bus,Bus,Bus,-
+14,23,Male,9000,No,-,900,6.5,Walking,Bus,Bus,Bus,-
+14,38,Male,10000,Yes,Motorcycle,900,2.9,Motorcycle,Bus,Motorcycle,Motorcycle,-
+14,23,Female,3000,No,-,100,7,Walking,Bus,Bus,Rickshaw,-
+14,21,Female,0,No,-,950,1.6,Walking,Bus,Bus,Rickshaw,-
+14,18,Male,7000,No,-,500,2.9,Walking,Bus,Bus,Bus,-
+14,50,Male,11000,No,-,100,8.9,Walking,Bus,Bus,Bus,-
+14,29,Male,0,No,-,950,1.3,Walking,Bus,Bus,Rickshaw,-
+14,28,Male,20000,No,-,200,2.9,Walking,Bus,Bus,Bus,-
+14,25,Male,0,No,-,900,1.9,Walking,Bus,-,Bus,-
+14,22,Male,5000,No,-,900,1.9,Walking,Bus,Bus,Bus,-
+14,38,Female,0,No,-,500,6.2,Walking,Rickshaw,-,Bus,-
+40,33,Male,15000,Yes,Rickshaw,950,2.8,Rickshaw,Rickshaw,Rickshaw,Bus,-
+40,33,Male,15000,No,-,500,3,Walking,Bus,Bus,Bus,-
+40,20,Male,40000,No,-,500,2.9,Walking,CNG,Bus,Bus,-
+40,50,Male,20000,No,-,500,4.5,others,others,others,Bus,-
+40,26,Male,15000,No,-,800,9.6,Walking,Bus,Bus,Bus,-
+40,28,Male,0,No,-,200,3.1,Walking,CNG,-,Bus,-
+40,15,Male,15000,No,-,200,2.2,Walking,Walking,Walking,Bus,-
+40,32,Male,25000,No,-,500,24,Walking,Bus,Bus,Bus,-
+40,29,Male,12000,No,-,950,2.2,Walking,Walking,Walking,Walking,-
+40,25,Female,11000,No,-,500,22,Walking,Bus,Bus,Bus,-
+40,32,Male,10000,No,-,900,3.1,Walking,others,others,Rickshaw,-
+40,26,Female,16000,No,-,150,8.5,Walking,Bus,Bus,Bus,-
+40,22,Female,13000,No,-,900,4.5,Walking,Bus,Bus,Walking,-
+40,18,Female,10000,No,-,900,2.6,Walking,Bus,Bus,Bus,-
+40,26,Female,35000,No,-,900,16,Walking,Bus,Bus,Bus,-
+40,25,Male,30000,No,-,200,2.9,Walking,Bus,Bus,Rickshaw,-
+40,16,Male,13000,No,-,200,1,Walking,Walking,Walking,Walking,-
+40,19,Female,25000,No,-,100,16,Walking,Bus,Rickshaw,Bus,-
+40,33,Male,20000,No,-,150,1,Walking,Walking,Walking,Walking,-
+40,18,Male,10000,No,-,100,3.1,Walking,Walking,Bus,Walking,-
+40,20,Female,12000,No,-,900,4.5,Walking,Bus,Bus,Walking,-
+40,19,Female,11000,No,-,100,9.6,Walking,Bus,Bus,Walking,-
+40,12,Male,7000,No,-,900,1.7,Walking,Walking,Walking,Walking,-
+40,35,Female,40000,No,-,900,4.5,Rickshaw,Bus,Bus,Rickshaw,-
+40,27,Female,38000,No,-,500,4.5,others,Bus,Bus,Rickshaw,-
+40,25,Male,50000,No,-,500,9.3,Rickshaw,Bus,Bus,Rickshaw,-
+40,19,Female,10000,No,-,300,1,Walking,Walking,Walking,Walking,-
+40,21,Male,22000,No,-,200,2.2,Walking,Bus,Bus,Rickshaw,-
+40,19,Female,12000,No,-,500,4.5,Walking,Bus,Bus,Rickshaw,-
+40,26,Female,0,No,-,500,2.2,Walking,Bus,-,Bus,-
+28,30,Male,13000,No,-,900,4.9,Walking,others,others,others,-
+28,33,Male,15000,No,,950,1.2,Walking,Bus,Bus,Bus,-
+28,26,Male,50000,No,,950,11,Walking,Walking,Walking,Bus,-
+28,36,Male,14000,Yes,Motorcycle,300,4.19,Walking,others,others,CNG,-
+28,29,Male,15000,No,-,950,9.5,Walking,others,others,Bus,-
+28,27,Male,10000,No,-,500,1.9,Walking,Bus,Bus,Bus,-
+28,35,Female,0,No,-,900,9.5,Walking,Walking,-,-,-
+28,19,Male,20000,No,-,50,4.8,Walking,Bus,Bus,CNG,-
+28,28,Male,12000,No,-,50,2.4,Walking,Bus,Bus,Bus,-
+28,37,Male,15000,No,-,800,11,Walking,CNG,Bus,Rickshaw,-
+28,25,Male,30000,Yes,Cycle,500,2.4,Walking,Bus,Bus,Bus,-
+28,25,Male,8000,No,-,900,1.9,Walking,Bus,Bus,Walking,-
+28,25,Male,150000,Yes,Motorcycle,100,13,Motorcycle,Motorcycle,Motorcycle,Walking,-
+28,23,Female,0,No,-,100,1.2,Walking,Walking,Walking,Walking,-
+28,23,Male,7000,No,-,200,9.3,Walking,Bus,Bus,Bus,-
+28,44,Male,20000,No,-,500,27,Walking,Bus,Bus,,-
+28,29,Male,30000,Yes,Car,50,2.8,others,others,others,others,-
+28,30,Male,30000,Yes,Car,50,2.8,others,others,others,others,-
+28,40,Male,50000,No,-,50,34,Rickshaw,CNG,CNG,CNG,-
+28,27,Male,17000,No,-,200,4.7,Walking,Bus,Bus,Bus,-
+28,31,Male,25000,Yes,Motorcycle,500,9,Walking,Motorcycle,Motorcycle,Motorcycle,-
+28,26,Male,20000,No,-,900,1.7,Walking,Bus,Bus,Bus,-
+28,42,Male,32000,No,-,200,6.6,others,Bus,Bus,Bus,-
+28,32,Male,12000,No,-,800,27,Walking,Bus,Bus,Bus,-
+28,32,Male,100000,No,-,500,32,Walking,Bus,Bus,Bus,-
+28,34,Male,35000,Yes,Motorcycle,950,2.4,Walking,Motorcycle,Motorcycle,Motorcycle,-
+28,44,Male,30000,No,-,500,5.8,Walking,others,CNG,CNG,-
+28,25,Male,35000,Yes,Motorcycle,500,2.8,Motorcycle,Motorcycle,Motorcycle,Motorcycle,-
+28,20,Male,8000,No,-,200,1.1,Walking,Walking,Walking,Walking,-
+28,36,Male,20000,No,-,950,4.8,Walking,Bus,Bus,Bus,-
+28,20,Male,30000,No,-,500,9.3,Walking,Bus,Bus,Bus,-
