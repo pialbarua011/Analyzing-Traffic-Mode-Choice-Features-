@@ -1,5 +1,5 @@
 
-# Analyzing Traffic Mode Choice Preference
+# Predicting Traffic Mode Choice Preference
 
 In this project, I aim to evaluate the behavior and factors influencing traffic mode choices (e.g., Bus, Car, Public Transport). Using a dataset of 500+ individuals who regularly commute for work and daily activities, I intend to achieve two goals: first, to visualize key insights from the dataset for a clearer understanding of travel patterns; and second, to build a regression model that identifies the factors influencing mode choice behavior.
 
